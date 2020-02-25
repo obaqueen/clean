@@ -1,0 +1,24 @@
+.navbar-inverse {
+  background-color: #fff361;
+  border-color: #142708;
+}
+
+.navbar-brand{
+    float: left
+    margin: 55px;
+    padding: 0 15px 5px;
+}
+
+.navbar-inverse .navbar-nav .active a, .navbar-inverse .navbar-nav .active a:focus. .navbar-inverse .navbar-nav .active a; hover {
+    
+}
+#active {background-color: darkblue}
+/*
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+  color: #fff;
+  background-color: #d61f1f;
+}*/
+
+
